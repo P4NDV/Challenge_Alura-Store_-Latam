@@ -133,5 +133,3 @@ Con base en el análisis integral, la recomendación es que el Sr. Juan **venda 
 > **En síntesis:** la Tienda 4 es la candidata más coherente para desinversión. Al ponderar ingresos, experiencia del cliente y operación conjuntamente, no supera a ninguna de sus competidoras en los indicadores de mayor impacto. Venderla permitiría al Sr. Juan concentrar recursos en las tiendas con mejor desempeño.
 
 ---
-
-*Análisis realizado con Python · pandas · matplotlib*
